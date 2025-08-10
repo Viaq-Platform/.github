@@ -8,14 +8,14 @@ For more information, please visit our website and app:
 
 - Website: [viaq.ir](https://viaq.ir/)
 - Quick Start Sign Up : [invite.viaq.ir](https://invite.viaq.ir/)
-- App : [viaq.ir/application/](https://viaq.ir/application/)]
-  
+- App : [viaq.ir/application/](https://viaq.ir/application/)
+  ------------
 - Products : [viaq.ir/products](https://viaq.ir/products/)
 - Articles & News : [viaq.ir/article-news](https://viaq.ir/article-news/)
-- 
+  ------------
 - About Us : [viaq.ir/about-us](https://viaq.ir/about-us/)
 - Contact Us : [viaq.ir/contact-us](https://viaq.ir/contact-us/)
-
+  ------------
 
 
 ---
